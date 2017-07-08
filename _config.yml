@@ -1,0 +1,36 @@
+# site settings
+title: GTIA
+subtitle: Bringing the world to Georgia Tech and Georgia Tech to the world
+email: gtinternationalambassadors@gmail.com
+description: A student organization comprised of local and international students that ...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: Georgia Institute of Technology
+city: Atlanta
+state: GA
+zip_code:
+country: United States of America
+phone:
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/gatechGTIA/
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
