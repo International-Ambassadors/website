@@ -1,6 +1,7 @@
 # site settings
 title: GTIA
-subtitle: Bringing the world to Georgia Tech and Georgia Tech to the world
+subtitle: International Ambassadors at Georgia Tech
+# Bringing the world to Georgia Tech and Georgia Tech to the world
 email: gtinternationalambassadors@gmail.com
 description: A student organization comprised of local and international students that ...
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,7 +24,7 @@ facebook_url: https://www.facebook.com/gatechGTIA/
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/international_ambassadors
 linkedin_url:
 pinterest_url:
 slack_url:

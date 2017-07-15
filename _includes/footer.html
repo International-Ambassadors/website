@@ -1,7 +1,7 @@
 <!-- Contact -->
 <section id="contact">
 	<div class="inner">
-		<section>
+		<!-- <section>
 			<h2>Reach out to us</h2>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
@@ -14,15 +14,17 @@
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" rows="3"></textarea>
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
-		</section>
-		<section class="split">
+		</section> -->
+		<div class="row">
+			<div class="6u 12u$(medium)">
+			</div>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
@@ -30,6 +32,8 @@
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
+		</div>
+		<section class="split">
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -93,9 +97,9 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li>&copy; {{ 'now' | date: "%Y" }} {{ site.subtitle }}</li>
+				<!-- <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 
 			</ul>
 		</div>
