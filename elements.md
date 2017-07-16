@@ -2,6 +2,7 @@
 layout: page
 title: Elements
 nav-menu: false
+published: false
 ---
 
 <!-- Main -->

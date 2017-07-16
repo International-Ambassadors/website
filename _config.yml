@@ -3,7 +3,7 @@ title: GTIA
 subtitle: International Ambassadors at Georgia Tech
 # Bringing the world to Georgia Tech and Georgia Tech to the world
 email: gtinternationalambassadors@gmail.com
-description: A student organization comprised of local and international students that ...
+description: We bring the World to Georgia Tech and Georgia Tech to the World
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -16,7 +16,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:

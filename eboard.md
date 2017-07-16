@@ -2,7 +2,7 @@
 layout: page
 title: Executive board
 nav-menu: true
-description: Who leads us?
+description: The people leading GTIA into a new era
 image: assets/images/XXJ_eboard_einstein.jpg
 ---
 
