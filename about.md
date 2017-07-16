@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 nav-menu: true
+description: What do we do?
 image: assets/images/fabrizio-verrecchia-202402.jpg
 ---
 
@@ -12,7 +13,7 @@ image: assets/images/fabrizio-verrecchia-202402.jpg
 <section id="one">
     <div class="inner">
         <header class="major">
-            <h1>Elements</h1>
+            <h1>About Us</h1>
         </header>
 
 <!-- Page content -->
