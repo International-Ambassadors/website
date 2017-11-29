@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Events
-nav-menu: true
+nav-menu: false
+published: false
 description: Some of the events we do
 ---
 

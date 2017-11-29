@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Join Us
-nav-menu: true
+nav-menu: false
+published: false
 description: Become part of the team
 image: assets/images/fistbump.jpg
 ---
