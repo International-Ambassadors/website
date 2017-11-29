@@ -41,6 +41,7 @@ image: assets/images/XXJ_eboard_einstein.jpg
         </div>
         <p>
             <b>Alice Robang</b>
+            <a href="https://www.linkedin.com/in/asrobang/" class="icon fa-linkedin-square"></a>
             <br>
             <i>Vice President of Finance</i>
         </p>
