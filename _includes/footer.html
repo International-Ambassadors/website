@@ -22,7 +22,7 @@
 				</ul>
 			</form>
 		</section> -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="6u 12u$(medium)">
 			</div>
 			<section>
@@ -57,7 +57,7 @@
 					</span>
 				</div>
 			</section>
-		</section>
+		</section> -->
 	</div>
 </section>
 
@@ -95,9 +95,32 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				{% if site.email %}
+				<li><a href="mailto:{{ site.mail }}" class="icon alt fa-envelope-o" target="_blank"><span class="label">Email</span></a></li>
+				{% endif %}
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ 'now' | date: "%Y" }} {{ site.subtitle }}</li>
+				<li><span>
+						{% if site.street_address %}
+							{{ site.street_address }}{{', '}} 
+						{% endif %}
+						{% if site.city %}
+							{{ site.city }}
+						{% endif %}
+						{% if site.state %}
+							{{ site.state }}{{', '}} 
+						{% endif %}
+						{% if site.zip_code %}
+							-{{ site.zip_code }},
+						{% endif %}
+						{% if site.country %}
+							{{ site.country }}
+						{% endif %}
+						</span></li>
+				<li>
+					{{ site.email }}
+				</li>
 				<!-- <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 
