@@ -28,6 +28,7 @@ image: assets/images/XXJ_eboard_einstein.jpg
         <p>
             <b>Karvin Dassanayake</b>
             <a href="https://www.linkedin.com/in/karvin/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:karvin@gatech.edu" class="icon fa-envelope-square"></a>
             <br>
             <i>President</i>
         </p>
@@ -52,12 +53,12 @@ image: assets/images/XXJ_eboard_einstein.jpg
     <div class="6u">
         <div class="box alt">
             <span class="image fit">
-                <img src="assets/images/XXJ_eboard_pedro.jpg">
+                <img src="assets/images/XXJ_eboard_yash.jpg">
             </span>
         </div>
         <p>
-            <b>Pedro Maddens Toscano</b>
-            <a href="https://www.linkedin.com/in/pedromaddenstoscano/" class="icon fa-linkedin-square"></a>
+            <b>Yash Punjabi</b>
+            <a href="https://www.linkedin.com/in/yashrpunjabi/" class="icon fa-linkedin-square"></a>
             <br>
             <i>Vice President of Outreach</i>
         </p>
