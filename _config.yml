@@ -16,7 +16,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 20 # note that this tends to be higher than 3 since some pages don't display
 
 # social settings
 500px_url:
@@ -25,7 +25,7 @@ github_url:
 gitlab_url:
 googleplus_url:
 instagram_url: https://instagram.com/international_ambassadors
-linkedin_url:
+linkedin_url: https://www.linkedin.com/company/international-ambassadors-at-georgia-tech/
 pinterest_url:
 slack_url:
 twitter_url:
