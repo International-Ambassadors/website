@@ -2,8 +2,9 @@
 layout: page
 title: Executive board
 nav-menu: true
+published: true
 description: The people leading GTIA into a new era
-image: assets/images/XXJ_eboard_einstein.jpg
+image: assets/images/KN_eboard_all.jpg
 ---
 
 <!-- Main -->
@@ -17,94 +18,113 @@ image: assets/images/XXJ_eboard_einstein.jpg
         </header>
 
 <!-- Eboard Profiles section -->
-<!-- President -->
 <div class="row">
-    <div class="6u">
-    <div class="box alt">
-    <span class="image fit">
-        <img src="assets/images/XXJ_eboard_karvin.jpg">
-    </span>
-    </div>
-        <p>
-            <b>Karvin Dassanayake</b>
-            <a href="https://www.linkedin.com/in/karvin/" class="icon fa-linkedin-square"></a>
-            <a href="mailto:karvin@gatech.edu" class="icon fa-envelope-square"></a>
-            <br>
-            <i>President</i>
-        </p>
-    </div>
-<!-- Finance -->
-    <div class="6u$">
+    <!-- President -->
+    <div class="4u 12u$(medium)">
         <div class="box alt">
             <span class="image fit">
-                <img src="assets/images/XXJ_eboard_alice.jpg">
-            </span>
-        </div>
-        <p>
-            <b>Alice Robang</b>
-            <a href="https://www.linkedin.com/in/asrobang/" class="icon fa-linkedin-square"></a>
-            <br>
-            <i>Vice President of Finance</i>
-        </p>
-    </div>
-</div>
-<!-- Outreach -->
-<div class="row">
-    <div class="6u">
-        <div class="box alt">
-            <span class="image fit">
-                <img src="assets/images/XXJ_eboard_yash.jpg">
-            </span>
-        </div>
-        <p>
-            <b>Yash Punjabi</b>
-            <a href="https://www.linkedin.com/in/yashrpunjabi/" class="icon fa-linkedin-square"></a>
-            <br>
-            <i>Vice President of Outreach</i>
-        </p>
-    </div>  
-<!-- Marketing -->
-    <div class="6u$">
-        <div class="box alt">
-            <span class="image fit">
-                <img src="assets/images/XXJ_eboard_radhika.jpg">
-            </span>
-            </div>
-            <p>
-                <b>Radhika Modi</b>
-                <a href="https://www.linkedin.com/in/radhika-modi-977158127/" class="icon fa-linkedin-square"></a>
-                <br>
-                <i>Vice President of Marketing</i>
-            </p>
-    </div>
-</div>
-<!-- Internal Management -->
-<div class="row">
-    <div class="6u">
-        <div class="box alt">
-            <span class="image fit">
-                <img src="assets/images/XXJ_eboard_maithili.jpg">
-            </span>
-        </div>
-            <p>
-                <b>Maithili Appalwar</b>
-                <a href="https://www.linkedin.com/in/maithili-appalwar/" class="icon fa-linkedin-square"></a>
-                <br>
-                <i>Vice President of Internal Management</i>
-            </p>
-    </div>
-    <!-- External Affairs -->
-    <div class="6u$">
-        <div class="box alt">
-            <span class="image fit">
-                <img src="assets/images/XXJ_eboard_jacob.jpg">
+                <img src="assets/images/KN_eboard_jacob.jpg">
             </span>
         </div>
         <p>
             <b>Jacob Bruhn</b>
             <a href="https://www.linkedin.com/in/jacob-bruhn-6467a9126/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:jacob.bruhn@gatech.edu" class="icon fa-envelope-square"></a>
+            <br>
+            <i>President</i>
+        </p>
+    </div>
+<!-- Executive Vice President -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_shaiv.jpg">
+            </span>
+        </div>
+        <p>
+            <b>Shaiv Gandhi</b>
+            <a href="https://www.linkedin.com/in/shaivgandhi/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:batman@gatech.edu" class="icon fa-envelope-square"></a>
+            <br>
+            <i>Executive Vice President</i>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <!-- Finance -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_yebin.jpg">
+            </span>
+        </div>
+        <p>
+            <b>Yebin (Alice) Choi</b>
+            <a href="https://www.linkedin.com/in/yebin-alice-choi-63a25914b/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:ychoi342@gatech.edu" class="icon fa-envelope-square"></a>
+            <br>
+            <i>Vice President of Finance</i>
+        </p>
+    </div>
+    <!-- Outreach -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_alicia.jpg">
+            </span>
+        </div>
+        <p>
+            <b>Alicia Robang</b>
+            <a href="https://www.linkedin.com/in/asrobang/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:asrobang@gatech.edu" class="icon fa-envelope-square"></a>
+            <br>
+            <i>Vice President of Outreach</i>
+        </p>
+    </div>  
+    <!-- Marketing -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_kevin.jpg">
+            </span>
+            </div>
+            <p>
+                <b>Kevin Nguyen</b>
+                <a href="mailto:kbnguyen125@gatech.edu" class="icon fa-envelope-square"></a>
+                <br>
+                <i>Vice President of Marketing</i>
+            </p>
+    </div>
+</div>
+<div class="row">
+    <!-- Internal Management -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_aarushi.jpg">
+            </span>
+        </div>
+            <p>
+                <b>Aarushi Khajuria</b>
+                <a href="mailto:aarushi.khajuria@gatech.edu" class="icon fa-envelope-square"></a>
+                <br>
+                <i>Vice President of Internal</i>
+            </p>
+    </div>
+    <!-- External Affairs -->
+    <div class="4u 12u$(medium)">
+        <div class="box alt">
+            <span class="image fit">
+                <img src="assets/images/KN_eboard_yasmine.jpg">
+            </span>
+        </div>
+        <p>
+            <b>Yasmine Bassil</b>
+            <a href="https://www.linkedin.com/in/yasmine-bassil-915b87130/" class="icon fa-linkedin-square"></a>
+            <a href="mailto:yasminebassil@gatech.edu" class="icon fa-envelope-square"></a>
             <br>
             <i>Vice President of External Affairs</i>
         </p>
     </div>
 </div>
+
