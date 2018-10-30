@@ -24,6 +24,7 @@ image: assets/images/KN_members_all.jpg
             <li>Cassandra Chu</li>
             <li>Chunjun Jia</li>
             <li>Darshan Senthil</li>
+            <li>Devansh Jatin Ponda</li>
             <li>Emily Surry</li>
             <li>Graeme Lowe</li>
             <li>Jacob Bruhn <i>- President, former Vice President of External Affairs</i></li>
