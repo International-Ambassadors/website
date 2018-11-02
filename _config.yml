@@ -20,7 +20,7 @@ tiles-count: 20 # note that this tends to be higher than 3 since some pages don'
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/gatechGTIA/
+facebook_url: https://www.facebook.com/GTIAmbassadors/
 github_url:
 gitlab_url:
 googleplus_url:
