@@ -43,6 +43,7 @@ image: assets/images/KN_members_all.jpg
             <li>Cyrus Tanade</li>
             <li>Daniele Gavetti De Mari</li>
             <li>Darshan Senthil</li>
+            <li>Devansh Jatin Ponda</li>
             <li>Dylan Monteiro</li>
             <li>Ekaterina Selivanova</li>
             <li>Eleanor Thomas</li>
