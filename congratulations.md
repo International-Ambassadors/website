@@ -58,7 +58,7 @@ You have made through the toughest part of the admission process- getting in. In
 </div>
 
 <!-- Footer -->
-To connect with fellow international students on campus, don’t forget to follow the <a href="https://www.facebook.com/gatechGTIA/">GTIA Facebook page</a>. To join the conversation for the entire undergraduate class of 2021, check out this <a href="https://www.facebook.com/GT2021/">Facebook group</a>.
+To connect with fellow international students on campus, don’t forget to follow the <a href="https://www.facebook.com/gatechGTIA/">GTIA Facebook page</a>. To join the conversation for the entire undergraduate class of 2021, check out this <a href="https://www.facebook.com/groups/2077671342339979/">Facebook group</a>.
 
 
 </div>
