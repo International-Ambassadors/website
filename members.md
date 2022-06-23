@@ -102,7 +102,6 @@ image: assets/images/KN_members_all.jpg
             <li>Madeline Horvath</li>
             <li>Margaret Ortiz </li>
             <li>Mariam Alzaabi </li>
-            <li>Pedro Maddens Toscano <i>- Former Vice President of Outreach</i></li>
             <li>Pranathi Reddy</li>
             <li>Rohan Avalani </li>
             <li>Sagar Mandal</li>
